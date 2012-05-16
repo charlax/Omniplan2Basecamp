@@ -1,0 +1,8 @@
+[Basecamp]
+token = 69fb5faf3b3a0cd3e11b9041b4ff51e01670c43b
+url = https://yourcompany.basecamphq.com/
+project_id = 1234567-project-name
+
+[Omniplan2Basecamp]
+use_only_first_name = yes
+default_assigned = Charles-Axel
